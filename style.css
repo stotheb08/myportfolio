@@ -10,9 +10,13 @@ header {
   font-family:'Courier New', Courier, monospace
 }
 
+/*title size*/
+
 h1 {
   font-size: 70px;
 }
+
+/*header spacing*/
 
 header div{
   margin-top: 10px;
@@ -21,11 +25,15 @@ header div{
 
 }
 
+/*section text*/
+
 main {
   background-color:azure;
   color: rgb(77, 77, 207);
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+/*section spacing*/
 
 main div {
   text-align: center;
@@ -39,11 +47,15 @@ h2 {
   margin-bottom: 40px;
 }
 
+/*second section text*/
+
 main article {
   text-align: center;
   width: 700px;
   margin: auto;
 }
+
+/*list of links*/
 
 ul {
   text-align: left;
