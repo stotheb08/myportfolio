@@ -75,9 +75,14 @@ hr {
   font-style: strong;
 }
 
-subject {
+section {
   word-spacing: 50px;
   margin-bottom: 30px;
+  
+}
+
+a:hover {
+  color:red;
 }
 
 p {
